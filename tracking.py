@@ -24,7 +24,8 @@ g_urls = [
 "https://m.media-amazon.com/images/G/{}/marketing/prime/new_prime_logo_RGB_blue.png",
 "https://m.media-amazon.com/images/G/{}/x-locale/cs/te/logo.png",
 "https://m.media-amazon.com/images/G/{}/marketing/prime/CTYP/primelogoblue.png",
-"https://m.media-amazon.com/images/G/{}/advantage/vendor-central/site-logo.jpg"
+"https://m.media-amazon.com/images/G/{}/advantage/vendor-central/site-logo.jpg",
+"https://images-na.ssl-images-amazon.com/images/G/{}/error/title._TTD_.png"
 ]
 seller_logo = "https://m.media-amazon.com/images/G/01/sell/navigation/logos/amazon{TLD}-half-logo.svg"
 bs4_urls = [
