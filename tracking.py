@@ -24,7 +24,7 @@ g_urls = [
 "https://images-na.ssl-images-amazon.com/images/G/{}/payments-portal/r1/issuer-images/sprite-map.png",
 "https://images-na.ssl-images-amazon.com/images/G/{}/x-locale/common/buttons/continue-shopping.gif",
 "https://images-na.ssl-images-amazon.com/images/G/{}/x-locale/common/amazon-logo.gif",
-"https://images-na.ssl-images-amazon.com/images/G/{}/x-locale/common/amazon-logo-tiny.gif"
+"https://images-na.ssl-images-amazon.com/images/G/{}/x-locale/common/amazon-logo-tiny.gif",
 "https://m.media-amazon.com/images/G/{}/marketing/prime/new_prime_logo_RGB_blue.png",
 "https://m.media-amazon.com/images/G/{}/x-locale/cs/te/logo.png",
 "https://m.media-amazon.com/images/G/{}/marketing/prime/CTYP/primelogoblue.png",
