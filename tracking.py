@@ -97,7 +97,6 @@ def scrape(url, mode=""):
                     except Exception: 
                         pass
  
-            request.urlretrieve(css_url, "css/customer-preferences/cp_css.css")
             request.urlretrieve(sprite_flag_url, "css/customer-preferences/cp_sprite.png")
         case "seller-central":
             css_url = soup.find_all("link", rel="stylesheet")[1]["href"]
